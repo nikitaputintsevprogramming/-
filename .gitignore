@@ -70,3 +70,169 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+ProjectSettings/CommonBurstAotSettings.json
+ProjectSettings/BurstAotSettings_StandaloneWindows.json
+opekaNadZivot/Опека над животными_Data/StreamingAssets/UnityServicesProjectConfiguration.json
+opekaNadZivot/Опека над животными_Data/sharedassets0.assets.resS
+opekaNadZivot/Опека над животными_Data/sharedassets0.assets
+opekaNadZivot/Опека над животными_Data/ScriptingAssemblies.json
+opekaNadZivot/Опека над животными_Data/RuntimeInitializeOnLoads.json
+opekaNadZivot/Опека над животными_Data/Resources/unity_builtin_extra
+opekaNadZivot/Опека над животными_Data/Resources/unity default resources
+opekaNadZivot/Опека над животными_Data/resources.assets.resS
+opekaNadZivot/Опека над животными_Data/resources.assets
+opekaNadZivot/Опека над животными_Data/Plugins/x86_64/lib_burst_generated.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.XRModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.WindModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.VRModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.VirtualTexturingModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.VideoModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.VFXModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.VehiclesModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UnityWebRequestModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UnityCurlModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UnityConnectModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UNETModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UmbraModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UIModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UIElementsNativeModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UIElementsModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.UI.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.TLSModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.TilemapModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.TextRenderingModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.TerrainModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.SubsystemsModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.SubstanceModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.StreamingModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.SpriteShapeModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.SpriteMaskModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.SharedInternalsModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.ScreenCaptureModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.ProfilerModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.PhysicsModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.Physics2DModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.PerformanceReportingModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.ParticleSystemModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.NVIDIAModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.LocalizationModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.JSONSerializeModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.InputModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.InputLegacyModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.IMGUIModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.ImageConversionModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.HotReloadModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.GridModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.GIModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.GameCenterModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.DSPGraphModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.DirectorModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.CrashReportingModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.CoreModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.ClusterRendererModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.ClusterInputModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.ClothModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.AudioModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.AssetBundleModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.ARModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.AnimationModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.AndroidJNIModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.AIModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/UnityEngine.AccessibilityModule.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.VisualScripting.State.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.VisualScripting.Flow.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.VisualScripting.Core.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Timeline.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.TextMeshPro.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Services.Core.Threading.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Services.Core.Telemetry.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Services.Core.Scheduler.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Services.Core.Registration.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Services.Core.Networking.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Services.Core.Internal.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Services.Core.Environments.Internal.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Services.Core.Environments.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Services.Core.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Services.Core.Device.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Services.Core.Configuration.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Services.Core.Analytics.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Mathematics.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.InternalAPIEngineBridge.001.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Burst.Unsafe.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Burst.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Burst.Cecil.Rocks.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Burst.Cecil.Pdb.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Burst.Cecil.Mdb.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.Burst.Cecil.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.2D.Tilemap.Extras.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.2D.SpriteShape.Runtime.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.2D.PixelPerfect.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.2D.IK.Runtime.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.2D.Common.Runtime.dll
+opekaNadZivot/Опека над животными_Data/Managed/Unity.2D.Animation.Runtime.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.Xml.Linq.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.Xml.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.Transactions.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.ServiceModel.Internals.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.Security.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.Runtime.Serialization.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.Runtime.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.Numerics.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.Net.Http.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.IO.Compression.FileSystem.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.IO.Compression.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.EnterpriseServices.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.Drawing.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.Data.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.Data.DataSetExtensions.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.Core.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.Configuration.dll
+opekaNadZivot/Опека над животными_Data/Managed/System.ComponentModel.Composition.dll
+opekaNadZivot/Опека над животными_Data/Managed/Newtonsoft.Json.dll
+opekaNadZivot/Опека над животными_Data/Managed/netstandard.dll
+opekaNadZivot/Опека над животными_Data/Managed/mscorlib.dll
+opekaNadZivot/Опека над животными_Data/Managed/Mono.Security.dll
+opekaNadZivot/Опека над животными_Data/Managed/Assembly-CSharp.dll
+opekaNadZivot/Опека над животными_Data/level0
+opekaNadZivot/Опека над животными_Data/globalgamemanagers.assets
+opekaNadZivot/Опека над животными_Data/globalgamemanagers
+opekaNadZivot/Опека над животными_Data/boot.config
+opekaNadZivot/Опека над животными_Data/app.info
+opekaNadZivot/Опека над животными_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt
+opekaNadZivot/Опека над животными.exe
+opekaNadZivot/UnityPlayer.dll
+opekaNadZivot/UnityCrashHandler64.exe
+opekaNadZivot/MonoBleedingEdge/etc/mono/mconfig/config.xml
+opekaNadZivot/MonoBleedingEdge/etc/mono/config
+opekaNadZivot/MonoBleedingEdge/etc/mono/browscap.ini
+opekaNadZivot/MonoBleedingEdge/etc/mono/4.5/web.config
+opekaNadZivot/MonoBleedingEdge/etc/mono/4.5/settings.map
+opekaNadZivot/MonoBleedingEdge/etc/mono/4.5/machine.config
+opekaNadZivot/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+opekaNadZivot/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+opekaNadZivot/MonoBleedingEdge/etc/mono/4.0/web.config
+opekaNadZivot/MonoBleedingEdge/etc/mono/4.0/settings.map
+opekaNadZivot/MonoBleedingEdge/etc/mono/4.0/machine.config
+opekaNadZivot/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+opekaNadZivot/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+opekaNadZivot/MonoBleedingEdge/etc/mono/2.0/web.config
+opekaNadZivot/MonoBleedingEdge/etc/mono/2.0/settings.map
+opekaNadZivot/MonoBleedingEdge/etc/mono/2.0/machine.config
+opekaNadZivot/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+opekaNadZivot/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+opekaNadZivot/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll
+opekaNadZivot/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll
+opekaNadZivot.zip
